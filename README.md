@@ -6,4 +6,4 @@
   </picture>
 </div>
 
-Bard is an analyzer tool for players to check their performance based on combatlogs and give feedback on where they can improve.
+Bard is an analyzer tool for players to check their performance based on combat logs from World of Warcraft and give feedback on where they can improve.
